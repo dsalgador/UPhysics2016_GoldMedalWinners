@@ -1,0 +1,382 @@
+Mammals,,,,,,,
+Pipistrellus,Pipistrelle,7.3,29.3,Ch,ND,I,104
+pipistrellus,,,,,,,
+Plecotus auritus,Brown long-eared,8.5,27.6,Ch,ND,I,145
+"",bat,,,,,,
+Myotis lucifugus,Little brown bat,9.0,29.9,Ch,ND,I,79
+Gerbillus henleyi,Northern pygmy,9.3,26.5,Ro,D,G,39
+"",gerbil,,,,,,
+Tarsipes rostratus,Honey possum,9.9,34.4,Tr,ND,N,115
+Anoura caudifer,Flower-visiting,11.5,51.9,Ch,ND,N,63
+"",bat,,,,,,
+Macrotus,Big-eared bat,13.0,21.5,Ch,D,I,102
+californicus,,,,,,,
+Peromyscus,Cactus mouse,13.4,39.3,Ro,D,O,102
+crinitus,,,,,,,
+Mus domesticus,Wild house mouse,15.1,47.1,Ro,D,O,"97, 104"
+Cleithrionomys,Bank vole,16.0,57.6,Ro,ND,H,102
+rutilus,,,,,,,
+Sminthopsis,Narrow-footed,16.6,68.6,Da,ND,I,102
+crassicaudata,marsup. mouse,,,,,,
+Perognathus,Long-tailed,17.9,45.2,Ro,D,G,102
+formosus,pocket mouse,,,,,,
+Peromyscus,Deer mouse,17.9,53.4,Ro,D,O,61
+maniculatus,,,,,,,
+Peromyscus,White-footed,19.2,41.4,Ro,ND,O,"95, 102"
+leucopus,deer mouse,,,,,,
+Microtus arvalis,Meadow mouse,20.0,90.0,Ro,ND,O,104
+Eremitalpa,Namib Desert,20.7,12.5,In,D,I,140
+namibensis,golden mole,,,,,,
+Eptesicus fuscus,Big brown bat,20.8,43.6,Ch,ND,I,80
+Gerbillus allenbyi,Allenby’s gerbil,22.8,35.6,Ro,D,G,104
+Cleithrionomys,Bank vole,23.4,88.0,Ro,ND,H,104
+glareolus,,,,,,,
+Microtus agrestis,Field vole,26.8,77.8,Ro,ND,H,"86, 104"
+Gerbillus,Greater Egyptian,31.8,45.2,Ro,D,G,104
+pyramidum,gerbil,,,,,,
+Pseudomys,Australian native,32.6,62.2,Ro,ND,O,102
+albocinereus,mouse,,,,,,
+Antechinus,Brown antechinus,33.0,86.4,Da,ND,I,104
+stuartii,,,,,,,
+Phascogale,Wambenger,33.5,61.9,Da,ND,C,104
+calura,,,,,,,
+Dipodomys,Merriam’s,34.3,47.6,Ro,D,G,"102, 104"
+merriami,kangaroo rat,,,,,,
+Microtus,Meadow vole,36.9,115,Ro,ND,H,12
+pennsylvanicus,,,,,,,
+Acomys cahirinus,Common spiny,38.3,51.8,Ro,D,O,102
+"",mouse,,,,,,
+Sekeetamys calurus,Bushy-tailed jird,41.2,44.0,Ro,D,O,102
+Microgale dobsoni,Shrew-tenrec,42.6,77.1,In,ND,I,146
+Microgale talazaci,Shrew-tenrec,42.8,66.5,In,ND,I,146
+Acomys russatus,Golden spiny,45.0,47.8,Ro,D,O,102
+"",mouse,,,,,,
+Lemmus,Brown lemming,55.2,201,Ro,ND,H,102
+trimucronatus,,,,,,,
+Dipodomys microps,Chisel-tooth,57.1,84.5,Ro,D,O,102
+"",kangaroo rat,,,,,,
+Praomys,Multi-mammate,57.3,86.6,Ro,ND,O,102
+natalensis,mouse,,,,,,
+Antechinus,Broad-footed,62.6,150,Da,ND,I,102
+swainsonii,marsup. mouse,,,,,,
+Meriones crassus,Jird,69.2,65.0,Ro,D,G,39
+Phyllostomus,Spear-nosed bat,80.8,146,Ch,ND,I,78
+hastatus,,,,,,,
+Arvicola terrestris,Water vole,85.8,119,Ro,ND,H,102
+Ammospermophilus,Antelope ground,87.0,88.0,Ro,D,O,102
+leucurus,squirrel,,,,,,
+Tamias striatus,Eastern,96.3,143,Ro,ND,O,102
+"",chipmunk,,,,,,
+Thomomys bottae,Botta’s pocket,104,130,Ro,ND,H,102
+"",gopher,,,,,,
+Petaurus breviceps,Sugar glider,124,173,Pt,ND,O,102
+Gymnobelideus,Leadbeater’s,125,226,Pt,ND,O,102
+leadbeateri,possum,,,,,,
+Psammomys obesus,Fat sand rat,170,165,Ro,D,H,104
+Spermophilus,Golden-mantled,214,226,Ro,ND,H,104
+saturatus,ground sqrl.,,,,,,
+Isoodon auratus,Golden,333,285,Pe,ND,O,16
+"",bandicoot,,,,,,
+Spermophilus,Arctic ground,630,817,Ro,ND,O,104
+parryi,squirrel,,,,,,
+Bassariscus astutus,Ring-tailed cat,752,472,Ca,D,C,26
+Potorous,Long-nosed,825,517,Ma,ND,H,157
+tridactylus,potoroo,,,,,,
+Vulpes cana,Blanford’s fox,972,642,Ca,D,C,104
+Petauroides volans,Greater glider,995,520,Pt,ND,H,104
+Pseudocheirus,Ring-tail possum,"1,000",615,Pt,ND,H,96
+peregrinus,,,,,,,
+"",,,,,,,(Continued )
+Bettongia,Short-nosed,"1,100",593,Ma,ND,H,104
+penicillata,rat kangaroo,,,,,,
+Isoodon,Short-nosed brown,"1,230",644,Pe,ND,O,106
+obesulus,bandicoot,,,,,,
+Vulpes macrotis,Kit fox,"1,480","1,180",Ca,D,C,53
+Lepus,Black-tailed,"1,800","1,300",La,D,H,102
+californicus,jackrabbit,,,,,,
+Setonix,Quokka,"1,900",548,Ma,ND,H,102
+brachyurus,,,,,,,
+Vulpes velox,Swift fox,"2,100","1,780",Ca,ND,C,34
+Aepyrpimnus,Rufous rat,"2,860","1,430",Ma,ND,H,104
+rufescens,kangaroo,,,,,,
+Tachyglosssus,Echidna,"2,860",875,Ta,ND,I,104
+aculeatus,,,,,,,
+Marmota,Yellow-bellied,"3,190","2,430",Ro,ND,H,138
+flaviventris,marmot,,,,,,
+Bradypus,Three-toed sloth,"4,150",545,Xe,ND,H,117
+variegatus,,,,,,,
+Macropus,Tammar wallaby,"4,380","1,150",Ma,ND,H,102
+eugenii,,,,,,,
+Thylogale,Red-bellied,"5,980","1,630",Ma,ND,H,"102, 120"
+billiardieri,wallaby,,,,,,
+Aloutta palliata,Mantled howler,"7,330","2,580",Pr,D,H,102
+"",monkey,,,,,,
+Phascolarctos,Koala,"7,520","1,710",Ph,ND,H,"43, 77,"
+cinereus,,,,,,,102
+Proteles,Aardwolf,"8,540","1,850",Ca,D,I,168
+cristatus,,,,,,,
+Petrogale,Rock wallaby,"8,900","2,210",Ma,ND,H,104
+xanthopus,,,,,,,
+Lyacon pictus,African wild dog,"25,170","15,300",Ca,D,C,54
+Arctocephalus,Antarctic,"34,600","23,000",Pi,M,C,"6, 104"
+gazella,fur seal,,,,,,
+Canis lupus,Timber wolf,"37,300","17,700",Ca,ND,C,104
+Arctocephalus,Galapagos,"37,400","4,780",Pi,M,C,104
+galapagoensis,fur seal,,,,,,
+Odocoileus,Mule deer,"39,100","18,000",Ar,ND,H,102
+hemionus,,,,,,,
+Antidorcas,Springbok,"43,300","24,100",Ar,D,H,113
+marsupialis,,,,,,,
+Macropus,Eastern grey,"44,500","8,670",Ma,ND,H,102
+giganteus,kangaroo,,,,,,
+Callorhinus,Northern fur seal,"51,100","36,100",Pi,M,C,102
+ursinus,,,,,,,
+Zalophus,California sea,"78,000","38,600",Pi,M,C,104
+californianus,lion,,,,,,
+Neophoca cinerea,Australian sea,"83,500","39,500",Pi,M,C,104
+"",lion,,,,,,
+Phoca vitulina,Common seal,"99,000","52,500",Pi,M,C,135
+Birds,,,,,,,
+Archilochus,Black-chinned,3.7,29.1,Ap,TeF,N,133
+alexandri,hummingbird,,,,,,
+Calypte anna,Anna’s,4.5,31.8,Ap,CS,N,134
+"",hummingbird,,,,,,
+Thalurania,Crowned,4.9,37.9,Ap,TF,N,162
+colombica,woodnymph,,,,,,
+Auriparus flaviceps,Verdin,6.6,30.0,Pa,D,I,162
+Chalybura,Bronze-tailed,7.2,57.9,Ap,TF,N,162
+urochrysia,plumeleteer,,,,,,
+Malurus cyaneus,Superb blue,8.3,34.2,Pa,TeF,I,160
+"",wren,,,,,,
+Lampornis,Blue-throated,8.8,81.7,Ap,TeF,N,133
+clemenciae,hummingbird,,,,,,
+Zosterops lateralis,Grey-breasted,9.5,41.7,Pa,EF,F,102
+"",silvereye,,,,,,
+Parus ater,Coal tit,9.5,47.4,Pa,CF,I,118
+Nectarinia violacea,Orange-breasted,9.5,66.2,Pa,FY,N,167
+"",sunbird,,,,,,
+Acanthorhynchus,Eastern spinebill,9.7,53.0,Pa,TeF,N,161
+tenuirostris,,,,,,,
+Troglodytes aedon,House wren,10.6,60.8,Pa,TeF,I,42
+Parus cristatus,Crested tit,11.1,40.6,Pa,CF,I,118
+Parus montanus,Willow tit,11.4,44.1,Pa,CF,I,"23, 118"
+Parus caeruleus,Blue tit,11.5,64.0,Pa,CF,I,148
+Eremiornis carteri,Spinifexbird,12.0,51.5,Pa,D,I,1
+Parus cinctus,Siberian tit,12.8,51.4,Pa,CF,I,23
+Ficedula hypoleuca,Pied flycatcher,13.5,65.8,Pa,OW,I,"91, 93"
+Riparia riparia,Sand martin,14.3,81.7,Pa,TM,I,102
+Muscicapa striata,Pacific swallow,14.4,52.0,Pa,TeF,I,22
+Hirundo tahitica,Spotted,14.4,64.9,Pa,TF,I,"102, 148"
+"",flycatcher,,,,,,
+Phylidonyris,Crescent,14.6,75.9,Pa,TeF,N,161
+pyrrhoptera,honeyeater,,,,,,
+Ficedula albicollis,Collared,15.9,78.6,Pa,TeF,I,92
+"",flytcatcher,,,,,,
+Phylidonyris,New Holland,17.3,77.6,Pa,TeF,N,161
+novaehollandiae,honeyeater,,,,,,
+Parus major,Great tit,18.0,97.4,Pa,TeF,O,"109, 151"
+"",,,,,,,(Continued )
+Erithacus rubecula,Robin,18.7,71.3,Pa,TeF,,I,148
+Passerculus,Savannah,18.7,80.4,Pa,SM,,O,"102, 165,"
+sandwichensis,sparrow,,,,,,,171
+Delichon urbica,House martin,19.0,79.8,Pa,TM,,I,102
+Junco phaeonotus,Yellow-eyed,19.5,73.8,Pa,TM,,O,172
+"",junco,,,,,,,
+Junco hyemalis,Dark-eyed junco,19.6,76.6,Pa,TM,,O,163
+Tachycineata,Tree swallow,20.2,209,Pa,TM,,I,118
+bicolor,,,,,,,,
+Hirundo rustica,Barn swallow,20.4,95.8,Pa,TM,I,,"35, 102,"
+"",,,,,,,,158
+Prunella modularis,Dunnocky,21.2,86.0,Pa,TeF,,I,22
+Phainopepla nitens,Phainopepla,22.7,79.1,Pa,D,,O,102
+Cormobates,White-throated,23.7,81.4,Pa,TeF,,I,160
+leucophaeus,treecreeper,,,,,,,
+Oenanthe oenanthe,Northern,24.3,91.4,Pa,TM,,I,"90, 147"
+"",wheatear,,,,,,,
+Pyrrhula pyrrhula,Bullfinch,25.1,88.0,Pa,TeF,,G,22
+Philetairus socius,Sociable weaver,25.5,48.7,Pa,D,,O,170
+Sialia mexicana,Western bluebird,27.4,95.0,Pa,TeF,,I,89
+Melopsittacus,Budgerigar,27.9,59.1,Ps,D,,O,172
+undulatus,,,,,,,,
+Mirafra,Dune lark,28.5,64.3,Pa,D,,O,172
+erythrochlamys,,,,,,,,
+Merops viridis,Blue-throated,34.3,85.3,Co,TF,,I,"102, 148"
+"",bee-eater,,,,,,,
+Oceanites oceanus,Wilson’s,42.3,119,Pr,M,,C,102
+"",storm-petrel,,,,,,,
+Oceanodroma,Leach’s,45.9,118,Pr,M,,C,118
+leucorhoa,storm-petrel,,,,,,,
+Mimus polyglottos,Mockingbird,47.6,121,Pr,DF,,O,102
+Progne subis,Purple martin,49.0,163,Pa,DF,,I,102
+Actitis hypoleucos,Common,51.6,146,Ch,M,,C,148
+"",sandpiper,,,,,,,
+Calidris alba,Sanderling,52.0,141,Ch,M,,C,24
+Neophema,Rock parrot,62.8,106,Ps,D,,O,172
+petrophila,,,,,,,,
+Cinclus cinclus,Dipper,63.7,196,Pa,TM,,I,"18, 118"
+Charadrius,Ringed plover,74.8,302,Ch,M,,C,148
+hiaticula,,,,,,,,
+Ceryle rudis,Pied kingfisher,76.0,210,Co,TF,,C,118
+Sturnus vulgaris,Starling,78.7,269,Pa,DF,,O,102
+Aethia pusilla,Least auklet,80.3,350,Ch,M,,C,"118, 125"
+Melanerpes,Acorn,82.0,195,Pi,OW,O,172
+formicivorous,woodpecker,,,,,,
+Geophaps plumifera,Spinifex pigeon,87.0,76.0,Cl,D,G,169
+Turdus merula,Blackbird,96.0,179,Pa,TeF,I,22
+Sterna paradisaea,Arctic tern,101,335,Ch,M,C,152
+Arenaria interpres,Ruddy turnstone,108,352,Ch,M,C,131
+Pelecanoides,South Georgia,109,464,Pr,M,C,118
+georgicus,diving petrel,,,,,,
+Sterna hirundo,Common tern,127,343,Ch,M,C,72
+Pelecanoides,Common diving,137,557,Pr,M,C,118
+urinatrix,petrel,,,,,,
+Callipepla gambelii,Gambel’s quail,145,90.8,Ga,D,O,102
+Barnardius zonarius,Port Lincoln,145,189,Ps,D,O,172
+"",parrot,,,,,,
+Pachyptila desolata,Antarctic prion,149,391,Pr,M,C,149
+Alle alle,Dovkie,164,696,Ch,M,C,172
+Ptychoramphus,Cassin’s auklet,174,413,Ch,M,C,65
+aleuticus,,,,,,,
+Sterna fuscata,Sooty tern,187,241,Ch,M,C,102
+Ammoperdix heyi,Sand partridge,190,148,Ga,D,O,102
+Anous stolidus,Brown noddy,195,352,Ch,M,C,102
+Falco tinnunculus,Eurasian kestrel,211,341,Fa,TM,C,"67, 84,118"
+Cacatua,Galah,307,349,Ps,D,O,172
+roseicapilla,,,,,,,
+Phaethon lepturus,White-tailed,370,777,Pe,M,C,127
+"",tropicbird,,,,,,
+Cepphus grylle,Black guillemot,380,860,Ch,M,C,"87, 118"
+Puffinus pacificus,Wedge-tailed,384,614,Pr,M,C,102
+"",shearwater,,,,,,
+Rissa tridactyla,Black-legged,386,795,Pr,M,C,102
+"",kittiwake,,,,,,
+Alectoris chukar,Chukar,395,260,Ga,D,O,102
+Uria lomvia,Thick-billed,834,"1,480",Ch,M,C,118
+"",murre,,,,,,
+Uria aalga,Guillemot,940,"1,870",Ch,M,C,172
+Eudyptula minor,Little penguin,"1,050","1,050",Sp,M,C,"46, 118"
+Sula sula,Red-footed,"1,070","1,220",Pe,M,C,7
+"",booby,,,,,,
+Centrocercus,Sage grouse,"2,500","1,540",Ga,D,G,154
+urophasianus,,,,,,,
+Morus capensis,Cape gannet,"2,580","3,380",Pe,M,C,172
+Diomedea,Laysan albatross,"3,070","1,330",Pr,M,C,130
+immutabilis,,,,,,,
+Spheniscus,Jackass penguin,"3,170","1,950",Sp,M,C,102
+demersus,,,,,,,
+"",,,,,,,(Continued )
+Sula bassanus,Northern gannet,"3,210","4,870",Pe,M,C,172
+Diomedea,Grey-headed,"3,710","2,390",Pr,M,C,118
+chrysostoma,albatross,,,,,,
+Pygoscelis,Chinstrap,"3,790","5,600",Sp,M,C,94
+antarctica,penguin,,,,,,
+Macronectes,Giant petrel,"3,890","4,330",Pr,M,C,124
+giganteus,,,,,,,
+Pygoscelis adeliae,Adelie penguin,"3,990","3,790",Sp,M,C,"25, 36,"
+"",,,,,,,119
+Eudyptes,Macaroni,"4,270","2,950",Sp,M,C,172
+chrysolophus,penguin,,,,,,
+Pygoscelis papua,Gentoo penguin,"6,170","4,650",Sp,M,C,"47, 172"
+Diomedea exulans,Wandering,"8,420","3,350",Pr,M,C,102
+"",albatross,,,,,,
+Aptenodytes,King penguin,"12,900","7,410",Sp,M,C,75
+patagonicus,,,,,,,
+Struthio camelus,Ostrich,"88,300","18,000",St,D,O,172
+Reptiles,,,,,,,
+Mesalina olivieri,Sand lizard,1.1,0.29,La,SA,I,156
+Rhoptropus afer,Namib Desert,2.6,0.23,Ge,D,I,121
+"",gecko,,,,,,
+Urosaurus,Black-tailed,3.2,1.38,Ph,SC,I,60
+nigricaudus,brush lizard,,,,,,
+Uta stansburiana,Side-blotched,3.2,0.67,Ph,D,I,"60, 101"
+"",lizard,,,,,,
+Pedioplanis,Spotted sand,3.3,0.54,La,D,I,111
+lineoocellata,lizard,,,,,,
+Heliobolus,Bushveld lizard,3.8,0.80,La,D,I,111
+lugubris,,,,,,,
+Meroles anchietae,Namib Desert,4.0,0.60,La,D,O,137
+"",dune lizard,,,,,,
+Cnemidophorus,Orangethroat,4.3,1.13,Te,SC,I,"60, 68"
+hyperythrus,whiptail,,,,,,
+Acanthodactylus,Sand lizard,4.5,0.23,La,SA,I,156
+pardalis,,,,,,,
+Sceloporus,Sagebrush lizard,5.0,0.82,Ph,SC,I,33
+graciosus,,,,,,,
+Sceloporus,Striped plateau,6.3,1.06,Ph,SC,I,88
+virgatus,lizard,,,,,,
+Callisaurus,Zebra-tailed,7.1,1.12,Ph,D,I,69
+draconoides,lizard,,,,,,
+Podarcis lilfordi,Lacertid lizard,7.4,1.49,La,SC/ME,I,19
+Sceloporus,Rosebelly lizard,7.7,1.92,Ph,TR,I,10
+variabilis,,,,,,,
+Chalcides,Gran Canarian,7.8,0.72,Sc,STR,I,20
+sexlineatus,skink,,,,,,
+Ptyodactylus,Negev Desert,9.1,1.2,Ge,D,I,108
+hasselquistii,gecko,,,,,,
+Varanus,Goanna/monitor,10.4,3.0,Va,SA/SC,C,150
+caudolineatus,lizard,,,,,,
+Galloti altantica,Agamid lizard,11.9,1.5,La,STR,H,155
+Sceloporus,Western fence,12.1,1.8,Ph,SC,I,"11, 13"
+occidentalis,lizard,,,,,,
+Cnemidophorus,Western whiptail,16.5,4.1,Te,D,I,"2, 3"
+tigris,,,,,,,
+Pachydactylus,Birbon’s gecko,16.6,2.2,Ge,D,I,112
+bibronii,,,,,,,
+Sceloporus jarrovi,Yarrow’s spiny,16.6,1.9,Ph,SC,I,"10, 83"
+"",lizard,,,,,,
+Mabuya striata,Stiped skink,19.5,2.9,Sc,D,I,112
+Thamnophis sirtalis,Common garter,22.0,5.2,Co,SC,C,129
+"",snake,,,,,,
+Phrynosoma,Desert horned,23.0,2.7,Ph,D,I,21
+platyrhinos,lizard,,,,,,
+Elgaria,Southern,25.3,2.0,An,SC,I,70
+multicarinatus,alligator lizard,,,,,,
+Lacerta viridis,Common lizard,25.5,5.8,La,TE,I,17
+Galloti galloti,Agamid lizard,25.6,4.6,La,STR,H,155
+Microlophus,Lava lizard,28.2,3.3,Tr,IT,I,99
+albemariensis,,,,,,,
+Ctenophorus,Central netted,36.8,9.6,Ag,D,I,105
+nuchalis,dragon,,,,,,
+Galloti stehlini,Giant agamid,47.3,7.9,La,STR,H,155
+"",lizard,,,,,,
+Dipsosaurus,Desert iguana,52.5,6.5,Ig,D,H,85
+dorsalis,,,,,,,
+Agama impalearis,Bibron’s agama,54.4,16.8,Ag,D,I,173
+Angolosaurus,Skoog’s lizard,57.4,3.0,Gr,D,H,107
+skoogi,,,,,,,
+Varanus,Ridge-tailed,60.0,3.7,Va,TE,C,41
+acanthurus,monitor,,,,,,
+Varanus scalaris,Goanna/monitor,66.4,7.8,Va,EW,C,29
+"",lizard,,,,,,
+Vipera aspis,European viper,67.2,6.3,Vi,TE,C,17
+Crotalus lepidus,Mottled rock,109,4.7,Vi,SC,C,9
+"",rattlesnakes,,,,,,
+Masticophus,Coachwhip,124,11.7,Co,D,C,139
+flagellum,,,,,,,
+Crotalus cerastes,Sidewinder,129,5.0,Vi,D,C,139
+"",,,,,,,(Continued )
+Coluber,Racer,132,12.8,Co,W,C,132
+constrictor,,,,,,,
+Sauromalus obesus,Chuckwalla,167,15.7,Ig,D,H,122
+Chlamydosaurus,Frillneck lizard,635,52.4,Ag,W,I,28
+kingii,,,,,,,
+Iguana iguana,Green iguana,860,60.1,Ig,SA,H,153
+Tupinambis,Tegu,"1,170",214,Te,TR,C,57
+teguixin,,,,,,,
+Varanus,Goanna/monitor,"1,180",100,Va,EW,C,56
+rosenbergi,lizard,,,,,,
+Varanus mertensi,Merten’s water,"1,210",143,Va,M,C,31
+"",monitor,,,,,,
+Varanus gouldii,Sand monitor,"1,320",233,Va,TRW,C,30
+Varanus panoptes,Goanna/monitor,"1,350",180,Va,TRW/RI,C,30
+Amblyrhynchus,Galapagos,"1,610",91.2,Ig,M,H,123
+cristatus,marine iguana,,,,,,
+Gopherus,Desert tortoise,"2,120",42.9,Ts,D,H,"64, 114,"
+agassizzi,,,,,,,128
+Varanus,Bengal monitor,"2,560",393,Va,TR,C,40
+bengalensis,,,,,,,
+Varanus salvator,Goanna/monitor,"7,530",906,Va,SA/TR,C,40
+"",lizard,,,,,,
+Varanus giganteus,Perenties,"7,700",807,Va,DTR,C,"40, 59"
+Varanus,Komodo dragon,"45,200","2,430",Va,TR,C,58
+komodensis,,,,,,,
