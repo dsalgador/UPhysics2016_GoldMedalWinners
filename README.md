@@ -3,7 +3,7 @@
 
 Authors: Sergio H. Martínez, Marc Rodà, Daniel Salgado (see http://www.uphysicsc.com/2016contest.html)
 
-# Problem B Dinosaurs versus Mammals
+## Problem B Dinosaurs versus Mammals
 
 The largest dinosaurs that walked the earth were approximately an order of magnitude (a factor of ten) 
 more massive than the largest land mammals.  It has been hypothesized that this may have been due to factors such as, 
@@ -12,7 +12,7 @@ birth to live young versus laying eggs, differences in metabolic rates, differen
 or differences in ambient temperature.  Develop a model to account for the differences in mass between the largest dinosaurs 
 and the largest land mammals, and evaluate the effectiveness of this model using biological/paleontological data.
 
-# Abstract
+## Abstract
 
 As suggested by recent publications on vertebrate’s maximal size [1], we have worked
 on a mathematical model based on resources and energy considerations that can be applied
@@ -26,7 +26,7 @@ we have found that dinosaurs having similar characteristics to varanids in terms
 of energy expenditure when extrapolated to larger mass successfully explains observed
 mass ratios of one order of magnitude between dinosaurs and mammals.
 
-# References
+## References
 * [1] Brian K. McNab (2009), Resources and energetics determined dinosaur maximal size
 Proc. Natl Acad. Sci. USA 106, 12 184 – 12 188 (doi: 10.1073/pnas.0904000106)
 * [2] Sander et al. (2011), Biology of the sauropod dinosaurs: the evolution of gigantism Biology
@@ -44,3 +44,7 @@ environment Journal of Thermal Biology 37 (2012) 56–64
 * [9] Dinosaur sizes, https://en.wikipedia.org/wiki/Dinosaur_size
 * [10] Allometry, https://en.wikipedia.org/wiki/Allometry
 * [11] Nagy KA (2005), Field metabolic rate and body size. Review. J Exp Biol 208:1621–1625
+
+## License
+
+Unless otherwise stated, all material is licensed under a Creative Commons Attribution-ShareAlike 3.0 License. This means you are free to copy, distribute and transmit the work, adapt it to your needs as long as you cite its origin and, if you do redistribute it, do so under the same license.
